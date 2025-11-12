@@ -22,11 +22,17 @@ All tasks run in Dockerized Airflow containers, ensuring a reproducible and isol
 ## Technologies Used
 
 Apache Airflow	Workflow orchestration and scheduling
+
 Docker / Docker Compose	Containerization and environment management
+
 yfinance	Fetching real-time market data
+
 pandas	Data cleaning and transformation
+
 Amazon S3	Cloud data storage
+
 Snowflake	Data warehousing and analytics
+
 Python 3.x	Primary programming language
 
 ### Prerequisites
